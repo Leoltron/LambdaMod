@@ -1,0 +1,69 @@
+itemGroup.seasoneventCreativeTab=LambdaMod
+
+tile.ironHarvesterSetPointBlock.name=Iron Harvester Set Point
+tile.copperHarvesterSetPointBlock.name=Copper Harvester Set Point
+tile.tinHarvesterSetPointBlock.name=Tin Harvester Set Point
+tile.diamondHarvesterSetPointBlock.name=Diamond Harvester Set Point
+tile.uraniumHarvesterSetPointBlock.name=Uranium Harvester Set Point
+tile.iridiumHarvesterSetPointBlock.name=Iridium Harvester Set Point
+tile.thuliumHarvesterSetPointBlock.name=Thulium Harvester Set Point
+tile.eleriumHarvesterSetPointBlock.name=Elerium Harvester Set Point
+tile.promethionHarvesterSetPointBlock.name=Promethion Harvester Set Point
+
+tile.radiationAirBlock.name=Radiation Block
+
+container.harvester=Harvester
+tile.harvesterPrimitiveIdle.name=Primitive Harvester
+tile.harvesterPrimitiveActive.name=Primitive Harvester
+tile.harvesterStableIdle.name=Stable Harvester
+tile.harvesterStableActive.name=Stable Harvester
+tile.harvesterReinforcedIdle.name=Reinforced Harvester
+tile.harvesterReinforcedActive.name=Reinforced Harvester
+tile.harvesterPrototypeIdle.name=Prototype Harvester
+tile.harvesterPrototypeActive.name=Prototype Harvester
+
+item.thuliumIngot.name=Thulium Ingot
+item.eleriumIngot.name=Elerium Ingot
+item.promethionIngot.name=Promethion Ingot
+item.spaceAlloyIngot.name=Space Alloy Ingot
+
+item.spaceAlloy.name=Space Alloy
+
+tile.blockThulium.name=Thulium Block
+tile.blockPromethion.name=Elerium Block
+tile.blockElerium.name=Promethion Block
+tile.blockSpaceAlloy.name=Space Alloy Block
+
+tile.blockRCLogo.name=Ru-Craft Logo
+
+tile.thuliumLampFill.name=White Lamp (Fill)
+tile.thuliumLampMove.name=White Lamp (Move)
+tile.eleriumLampFill.name=Blue Lamp (Fill)
+tile.eleriumLampMove.name=Blue Lamp (Move)
+tile.promethionLampFill.name=Red Lamp (Fill)
+tile.promethionLampMove.name=Red Lamp (Move)
+tile.spaceAlloyLampFill.name=Purple Lamp (Fill)
+tile.spaceAlloyLampMove.name=Purple Lamp (Move)
+
+tile.blockAlienLight.name=Alien Block
+tile.blockAlienDark.name=Alien Block
+
+item.carbonWhip.name=Carbon Whip
+
+item.RPCoin.name=Progress Points
+item.RPPlate.name=Progress Plate
+
+item.smallResearchRelic.name=Small Research Relic
+item.mediumResearchRelic.name=Medium Research Relic
+item.bigResearchRelic.name=Big Research Relic
+
+item.crushedThuliumOre.name=Crushed Thulium Ore
+item.crushedEleriumOre.name=Crushed Elerium Ore
+item.crushedPromethionOre.name=Crushed Promethion Ore
+
+gui.harvester.chance.title=Drop chance:
+gui.harvester.chance.ordinary=Ordinary
+gui.harvester.chance.trash=Trash
+gui.harvester.chance.rare=Rare
+
+gui.harvester.minInput=Min. input:

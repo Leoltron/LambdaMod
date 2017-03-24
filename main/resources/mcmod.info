@@ -1,0 +1,12 @@
+[
+{
+  "modid": "DzettaModpack",
+  "name": "Dzeta Modpack",
+  "description": "Modpack specially for Ru-Craft Dzeta server",
+  "version": "1.0542",
+  "mcversion": "1.7.10",
+  "url": "http://ru-craft.net",
+  "logoFile": "logo.png",
+  "authorList": ["Leoltron","Carbox","GenaRiver","limito & Maxous (Valve Mod)"]
+}
+]

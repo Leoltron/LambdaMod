@@ -1,0 +1,77 @@
+itemGroup.seasoneventCreativeTab=LambdaMod
+
+tile.ironHarvesterSetPointBlock.name=Железный источник
+tile.copperHarvesterSetPointBlock.name=Медный источник
+tile.tinHarvesterSetPointBlock.name=Оловянный источник
+tile.diamondHarvesterSetPointBlock.name=Алмазный источник
+tile.uraniumHarvesterSetPointBlock.name=Урановый источник
+tile.iridiumHarvesterSetPointBlock.name=Иридиевый источник
+tile.thuliumHarvesterSetPointBlock.name=Тулиевый источник
+tile.eleriumHarvesterSetPointBlock.name=Элериевый источник
+tile.promethionHarvesterSetPointBlock.name=Прометиевый источник
+
+tile.radiationAirBlock.name=Блок радиации
+
+container.harvester=Сборщик
+tile.harvesterPrimitiveIdle.name=Примитивный сборщик
+tile.harvesterPrimitiveActive.name=Примитивный сборщик
+tile.harvesterStableIdle.name=Устойчивый сборщик
+tile.harvesterStableActive.name=Устойчивый сборщик
+tile.harvesterReinforcedIdle.name=Усиленный сборщик
+tile.harvesterReinforcedActive.name=Усиленный сборщик
+tile.harvesterPrototypeIdle.name=Прототипный сборщик
+tile.harvesterPrototypeActive.name=Прототипный сборщик
+
+item.thuliumIngot.name=Тулиевый слиток
+item.eleriumIngot.name=Элериевый слиток
+item.promethionIngot.name=Прометиевый слиток
+item.spaceAlloyIngot.name=Слиток космического сплава
+
+item.spaceAlloy.name=Космический сплав
+
+tile.blockThulium.name=Тулиевый блок
+tile.blockPromethion.name=Элериевый блок
+
+
+tile.blockElerium.name=Прометиевый блок
+tile.blockSpaceAlloy.name=Блок космического сплава
+
+tile.thuliumLampFill.name=Белая лампа (Наполнение)
+tile.thuliumLampMove.name=Белая лампа (Движение)
+tile.eleriumLampFill.name=Синяя лампа (Наполнение)
+tile.eleriumLampMove.name=Синяя лампа (Движение)
+tile.promethionLampFill.name=Красная лампа (Наполнение)
+tile.promethionLampMove.name=Красная лампа (Движение)
+tile.spaceAlloyLampFill.name=Фиолетовая лампа (Наполнение)
+tile.spaceAlloyLampMove.name=Фиолетовая лампа (Движение)
+
+tile.blockAlienLight.name=Инопланетный блок
+tile.blockAlienDark.name=Инопланетный блок
+
+item.crushedThuliumOre.name=Измельченная тулиевая руда
+item.crushedEleriumOre.name=Измельченная элериевая руда
+item.crushedPromethionOre.name=Измельченная прометиевая руда
+
+item.carbonWhip.name=Карбоновый хлыст
+
+item.RPCoin.name=Очки прогресса
+item.RPPlate.name=Исследовательская пластина
+
+item.smallResearchRelic.name=Малая исследовательская реликвия
+item.mediumResearchRelic.name=Средняя исследовательская реликвия
+item.bigResearchRelic.name=Большая исследовательская реликвия
+
+gui.harvester.chance.title=Шансы выпадения:
+gui.harvester.chance.ordinary=Обычный
+gui.harvester.chance.trash=Мусор
+gui.harvester.chance.rare=Редкий
+
+gui.harvester.minInput=Мин. вход:
+
+itemSuperConductorCover.name=Изоляция суперпроводника
+itemSuperConductor.name=Суперпродвоник
+itemCoolingCore.name=Охлаждающее ядро
+itemGravitationEngine.name=Гравитационный двигатель
+itemMagnetron.name=Магнетрон
+itemVajraCore.name=Ядро ваджры
+itemEngineBoost.name=Ускоритель двигателя
